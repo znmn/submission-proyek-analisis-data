@@ -14,3 +14,7 @@ pip install -r requirements.txt
 cd dashboard
 streamlit run main.py
 ```
+
+## Deployed app
+
+E-commerce Data Analytics Dashboard => [https://e-commerce-submission-zain.streamlit.app/](https://e-commerce-submission-zain.streamlit.app/)
